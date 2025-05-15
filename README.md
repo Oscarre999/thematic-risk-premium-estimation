@@ -5,7 +5,7 @@ This thesis presents an analysis of the risk premium of financial instruments th
 Problem Formulation: **"Do Thematic Investments offer a higher risk premium compared to Traditional Investments, or are the latter still the most efficient choice in terms of risk-return trade-off?"**
 
 ## Repository
-- `HNGARCH_Thesis.pd`: PDF of the thesis documentation (*italian version*)
+- `HNGARCH_Thesis.pdf`: PDF of the thesis documentation (*italian version*)
 - `HNGARCH_ppt_Presentation.pdf`: PowerPoint presentation of the thesis (*italian version*)
 - `Heston-Nandi Garch Files` : Folder containing code and Excel results:
   - `HNGARCH_ANALYSIS.py`: Python script for the Heston-Nandi GARCH analysis using both Original and Explicit Factor approaches
