@@ -21,3 +21,13 @@ Problem Formulation: **"Do Thematic Investments offer a higher risk premium comp
 - **Libraries** - `numpy`, `pandas`, `scipy.optimize`
 
 ## Results
+- **Original Heston-Nandi Garch model** provides a reliable estimate of the risk premium for thematic indices.
+- **The Explicit Factors Heston-Nandi GARCH model** generates a time-varying risk premium, enabling us to analyze its temporal evolution across thematic indices and to compare them with the reference benchmark. Moreover, the model provides estimates for the explicit factor parameters, allowing us to assess the individual contribution of each factor to the dynamics of the time-varying risk premium.
+- Both the Original and the Explicit Factors models yield comparable estimates of the risk premium. In both cases, the risk premium of the MSCI ACWI benchmark is higher than those of the thematic indices.
+- The findings support the conclusion that, from a risk-return perspective, thematic investments tend to be less appealing compared to traditional investments.
+
+## Author
+Oscar Maria Bolletta
+
+## Contact
+Email: bollettaoscar@gmail.com
